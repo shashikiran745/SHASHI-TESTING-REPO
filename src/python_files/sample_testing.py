@@ -13,5 +13,3 @@ class NormalClass:
     
     if __name__ == '__main__':
         normal()
-    
-
